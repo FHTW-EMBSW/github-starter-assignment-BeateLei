@@ -1,0 +1,3 @@
+/home/beate/embedded_systems/SeatReservation/build/CMakeFiles/SeatReservation.dir
+/home/beate/embedded_systems/SeatReservation/build/CMakeFiles/edit_cache.dir
+/home/beate/embedded_systems/SeatReservation/build/CMakeFiles/rebuild_cache.dir

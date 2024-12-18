@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/SeatReservation.dir/src/main.cpp.o CMakeFiles/SeatReservation.dir/src/Table.cpp.o CMakeFiles/SeatReservation.dir/src/Guest.cpp.o CMakeFiles/SeatReservation.dir/src/Restaurant.cpp.o -o SeatReservation 

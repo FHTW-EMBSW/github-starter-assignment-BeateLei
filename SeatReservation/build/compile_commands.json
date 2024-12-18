@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/beate/embedded_systems/SeatReservation/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/SeatReservation/SeatReservation -I/home/beate/embedded_systems/SeatReservation/PUBLIC -I/home/beate/embedded_systems/SeatReservation/inc -g -std=gnu++11 -o CMakeFiles/SeatReservation.dir/src/main.cpp.o -c /home/beate/embedded_systems/SeatReservation/src/main.cpp",
+  "file": "/home/beate/embedded_systems/SeatReservation/src/main.cpp",
+  "output": "CMakeFiles/SeatReservation.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/beate/embedded_systems/SeatReservation/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/SeatReservation/SeatReservation -I/home/beate/embedded_systems/SeatReservation/PUBLIC -I/home/beate/embedded_systems/SeatReservation/inc -g -std=gnu++11 -o CMakeFiles/SeatReservation.dir/src/Table.cpp.o -c /home/beate/embedded_systems/SeatReservation/src/Table.cpp",
+  "file": "/home/beate/embedded_systems/SeatReservation/src/Table.cpp",
+  "output": "CMakeFiles/SeatReservation.dir/src/Table.cpp.o"
+},
+{
+  "directory": "/home/beate/embedded_systems/SeatReservation/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/SeatReservation/SeatReservation -I/home/beate/embedded_systems/SeatReservation/PUBLIC -I/home/beate/embedded_systems/SeatReservation/inc -g -std=gnu++11 -o CMakeFiles/SeatReservation.dir/src/Guest.cpp.o -c /home/beate/embedded_systems/SeatReservation/src/Guest.cpp",
+  "file": "/home/beate/embedded_systems/SeatReservation/src/Guest.cpp",
+  "output": "CMakeFiles/SeatReservation.dir/src/Guest.cpp.o"
+},
+{
+  "directory": "/home/beate/embedded_systems/SeatReservation/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/SeatReservation/SeatReservation -I/home/beate/embedded_systems/SeatReservation/PUBLIC -I/home/beate/embedded_systems/SeatReservation/inc -g -std=gnu++11 -o CMakeFiles/SeatReservation.dir/src/Restaurant.cpp.o -c /home/beate/embedded_systems/SeatReservation/src/Restaurant.cpp",
+  "file": "/home/beate/embedded_systems/SeatReservation/src/Restaurant.cpp",
+  "output": "CMakeFiles/SeatReservation.dir/src/Restaurant.cpp.o"
+}
+]
