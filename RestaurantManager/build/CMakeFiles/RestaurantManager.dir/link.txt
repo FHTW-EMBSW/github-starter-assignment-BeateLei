@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/RestaurantManager.dir/src/main.cpp.o CMakeFiles/RestaurantManager.dir/src/Table.cpp.o CMakeFiles/RestaurantManager.dir/src/CSVLoader.cpp.o CMakeFiles/RestaurantManager.dir/src/Guest.cpp.o CMakeFiles/RestaurantManager.dir/src/RestaurantManager.cpp.o CMakeFiles/RestaurantManager.dir/src/Point.cpp.o -o RestaurantManager  -lstdc++fs

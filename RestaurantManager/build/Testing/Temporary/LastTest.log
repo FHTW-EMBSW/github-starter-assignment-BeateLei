@@ -1,0 +1,75 @@
+Start testing: Dec 18 10:19 CET
+----------------------------------------------------------
+1/4 Testing: CSVLoaderTest
+1/4 Test: CSVLoaderTest
+Command: "/home/beate/embedded_systems/RestaurantManager/build/CSVLoaderTest"
+Directory: /home/beate/embedded_systems/RestaurantManager/build
+"CSVLoaderTest" start time: Dec 18 10:19 CET
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (19 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CSVLoaderTest" end time: Dec 18 10:19 CET
+"CSVLoaderTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: GuestTest
+2/4 Test: GuestTest
+Command: "/home/beate/embedded_systems/RestaurantManager/build/GuestTest"
+Directory: /home/beate/embedded_systems/RestaurantManager/build
+"GuestTest" start time: Dec 18 10:19 CET
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (13 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"GuestTest" end time: Dec 18 10:19 CET
+"GuestTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: PointTest
+3/4 Test: PointTest
+Command: "/home/beate/embedded_systems/RestaurantManager/build/PointTest"
+Directory: /home/beate/embedded_systems/RestaurantManager/build
+"PointTest" start time: Dec 18 10:19 CET
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (8 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PointTest" end time: Dec 18 10:19 CET
+"PointTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: TableTest
+4/4 Test: TableTest
+Command: "/home/beate/embedded_systems/RestaurantManager/build/TableTest"
+Directory: /home/beate/embedded_systems/RestaurantManager/build
+"TableTest" start time: Dec 18 10:19 CET
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (14 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"TableTest" end time: Dec 18 10:19 CET
+"TableTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 18 10:19 CET

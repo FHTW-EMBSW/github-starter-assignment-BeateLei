@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20241218-0855-Experimental"
+	Name="fedora"
+	Generator="ctest-3.30.5"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="14.2.1"
+	OSName="Linux"
+	Hostname="fedora"
+	OSRelease="6.11.8-200.fc40.x86_64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Thu Nov 14 20:38:18 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="78"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="8191"
+	TotalPhysicalMemory="15841"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="600.013"
+	>
+	<Testing>
+		<StartDateTime>Dec 18 10:19 CET</StartDateTime>
+		<StartTestTime>1734513557</StartTestTime>
+		<TestList>
+			<Test>./TableTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TableTest</Name>
+			<Path>.</Path>
+			<FullName>./TableTest</FullName>
+			<FullCommandLine>/home/beate/embedded_systems/RestaurantManager/build/TableTest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0311768</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/beate/embedded_systems/RestaurantManager/build/TableTest</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0UQCxikoy8/OKFTLzFIzAChSSE4tTizW5uABvcSOX====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Dec 18 10:19 CET</EndDateTime>
+		<EndTestTime>1734513557</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

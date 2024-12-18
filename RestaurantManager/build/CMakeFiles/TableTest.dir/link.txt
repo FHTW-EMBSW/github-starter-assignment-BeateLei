@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/TableTest.dir/test/main.cpp.o CMakeFiles/TableTest.dir/test/TableTest.cpp.o CMakeFiles/TableTest.dir/src/CSVLoader.cpp.o CMakeFiles/TableTest.dir/src/Table.cpp.o CMakeFiles/TableTest.dir/src/Point.cpp.o -o TableTest  -lstdc++fs

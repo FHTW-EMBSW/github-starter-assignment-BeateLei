@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/PointTest.dir/test/main.cpp.o CMakeFiles/PointTest.dir/test/PointTest.cpp.o CMakeFiles/PointTest.dir/src/Point.cpp.o -o PointTest  -lstdc++fs

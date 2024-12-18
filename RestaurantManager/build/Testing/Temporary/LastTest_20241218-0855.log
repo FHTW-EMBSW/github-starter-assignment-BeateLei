@@ -1,0 +1,21 @@
+Start testing: Dec 18 10:19 CET
+----------------------------------------------------------
+4/4 Testing: TableTest
+4/4 Test: TableTest
+Command: "/home/beate/embedded_systems/RestaurantManager/build/TableTest"
+Directory: /home/beate/embedded_systems/RestaurantManager/build
+"TableTest" start time: Dec 18 10:19 CET
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (14 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TableTest" end time: Dec 18 10:19 CET
+"TableTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 18 10:19 CET
