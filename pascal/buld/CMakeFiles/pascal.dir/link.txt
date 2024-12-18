@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/pascal.dir/src/main.cpp.o CMakeFiles/pascal.dir/src/pascal.cpp.o -o pascal
