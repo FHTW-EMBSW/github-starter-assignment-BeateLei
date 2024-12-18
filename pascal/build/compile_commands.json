@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/beate/embedded_systems/pascal/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/pascal/inc -g -o CMakeFiles/pascal.dir/src/main.cpp.o -c /home/beate/embedded_systems/pascal/src/main.cpp",
+  "file": "/home/beate/embedded_systems/pascal/src/main.cpp",
+  "output": "CMakeFiles/pascal.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/beate/embedded_systems/pascal/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/pascal/inc -g -o CMakeFiles/pascal.dir/src/pascal.cpp.o -c /home/beate/embedded_systems/pascal/src/pascal.cpp",
+  "file": "/home/beate/embedded_systems/pascal/src/pascal.cpp",
+  "output": "CMakeFiles/pascal.dir/src/pascal.cpp.o"
+},
+{
+  "directory": "/home/beate/embedded_systems/pascal/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/pascal/inc -g -o CMakeFiles/pascal_test.dir/test/main.cpp.o -c /home/beate/embedded_systems/pascal/test/main.cpp",
+  "file": "/home/beate/embedded_systems/pascal/test/main.cpp",
+  "output": "CMakeFiles/pascal_test.dir/test/main.cpp.o"
+},
+{
+  "directory": "/home/beate/embedded_systems/pascal/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/pascal/inc -g -o CMakeFiles/pascal_test.dir/test/pascal_test.cpp.o -c /home/beate/embedded_systems/pascal/test/pascal_test.cpp",
+  "file": "/home/beate/embedded_systems/pascal/test/pascal_test.cpp",
+  "output": "CMakeFiles/pascal_test.dir/test/pascal_test.cpp.o"
+},
+{
+  "directory": "/home/beate/embedded_systems/pascal/build",
+  "command": "/usr/bin/g++  -I/home/beate/embedded_systems/pascal/inc -g -o CMakeFiles/pascal_test.dir/src/pascal.cpp.o -c /home/beate/embedded_systems/pascal/src/pascal.cpp",
+  "file": "/home/beate/embedded_systems/pascal/src/pascal.cpp",
+  "output": "CMakeFiles/pascal_test.dir/src/pascal.cpp.o"
+}
+]

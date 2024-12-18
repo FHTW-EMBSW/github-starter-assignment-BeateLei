@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/pascal_test.dir/test/main.cpp.o CMakeFiles/pascal_test.dir/test/pascal_test.cpp.o CMakeFiles/pascal_test.dir/src/pascal.cpp.o -o pascal_test
